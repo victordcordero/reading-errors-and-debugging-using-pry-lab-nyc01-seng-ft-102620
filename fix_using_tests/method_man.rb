@@ -11,5 +11,5 @@ def play_game(player2)
 "#{player1} is better than #{player2}"
 end
 
-player1 = ("Rocky","Beyonce")
-player2 = ("BullWinkle","Jay-Z")
+player1 = ("Rocky" or "Beyonce")
+player2 = ("BullWinkle" or "Jay-Z")
