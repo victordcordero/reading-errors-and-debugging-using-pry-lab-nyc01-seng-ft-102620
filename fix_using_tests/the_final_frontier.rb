@@ -10,7 +10,6 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-binding.pry
 def engage
   puts star_date(date)
   date = generate_star_date
